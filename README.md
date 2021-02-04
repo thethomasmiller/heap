@@ -7,8 +7,9 @@
     Pageview      Pageview         Pageview     Pageveiw
     Events        Events           Events       Events 
 
-# Properties: bits of metadata from user interactions
-              Classified based on their place in the data model
+# Properties: 
+bits of metadata from user interactions
+Classified based on their place in the data model
 
    # User-Level properties: 
    all attributes associated with a user, including touch properties, account information, business logic, and more. Apply across the entire hierarchy. 
