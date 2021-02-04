@@ -8,7 +8,7 @@
     Events        Events           Events       Events 
 
 # Properties: 
-bits of metadata from user interactions
+bits of metadata from user interactions.
 Classified based on their place in the data model
 
    # User-Level properties: 
